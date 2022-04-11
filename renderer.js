@@ -1,0 +1,1 @@
+alert('renderer process')
